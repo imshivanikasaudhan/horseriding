@@ -352,8 +352,7 @@ echo '<span class="pull-right top title1" ><span class="log1"><span class="glyph
 
     <div class="btn " style="margin-top:45px; margin-left:42%; ">
         <button type="button" class="btn btn-primary" style="background: red;" data-toggle="modal"
-            data-target="#myModal">Add Horse
-            Details</button>
+            data-target="#myModal">Add Horse Details</button>
     </div>
 
 
